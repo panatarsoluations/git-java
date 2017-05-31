@@ -1,2 +1,2 @@
 # git-java
-git javaProject Hosting
+git java Project Hosting
